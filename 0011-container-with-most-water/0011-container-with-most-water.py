@@ -9,11 +9,11 @@ class Solution:
     
 
         while start_pointer < end_pointer:
-            total_max = max(total_max, min(height[start_pointer], height[end_pointer]) * abs(end_pointer - start_pointer))
+            total_max = max(total_max, min(height[start_pointer], height[end_pointer]) * (end_pointer - start_pointer))
 
-            if height[start_pointer] < height[end_pointer] and start_pointer < end_pointer:
+            if height[start_pointer] < height[end_pointer]:
                 start_pointer += 1
-            elif height[start_pointer] > height[end_pointer] and start_pointer < end_pointer:
+            elif height[start_pointer] > height[end_pointer]:
                 end_pointer -= 1
             else:
                 start_pointer += 1
