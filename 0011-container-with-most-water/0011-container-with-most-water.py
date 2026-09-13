@@ -16,7 +16,6 @@ class Solution:
             elif height[start_pointer] > height[end_pointer] and start_pointer < end_pointer:
                 end_pointer -= 1
             else:
-                total_max = max(total_max, min(height[start_pointer], height[end_pointer]) * abs(end_pointer - start_pointer))
                 start_pointer += 1
                 end_pointer -= 1
 
