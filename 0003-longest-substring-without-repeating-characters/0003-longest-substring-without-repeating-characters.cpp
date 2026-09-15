@@ -5,7 +5,7 @@ public:
         int right = 0;
 
         int longest = 0;
-        set<int> seen;
+        unordered_set<char> seen;
 
         while (right < s.length()) {
             if (!seen.contains(s[right])) {
