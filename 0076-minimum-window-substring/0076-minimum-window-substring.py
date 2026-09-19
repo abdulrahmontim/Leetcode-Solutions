@@ -28,7 +28,7 @@ class Solution:
                 curr_window_len = (right - left) + 1
                 if curr_window_len < min_len:
                     min_len = curr_window_len
-                    min_chars = s[left:right+1]
+                    min_start = left
                 
                 left_char = s[left]
                 if left_char in need:
@@ -39,7 +39,7 @@ class Solution:
                 left += 1
 
 
-        return min_chars
+        return s[min_start:min_start+min_len] if min_len !=float("inf") else ""
 
 
 
