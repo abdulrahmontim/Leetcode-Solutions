@@ -5,10 +5,10 @@ public:
         int right = nums.size() - 1;
 
         while (left < right) {
-            int middle = (right + left) / 2;
+            int middle = (left + right) / 2;
 
             if (nums[middle] > nums[right]) left = middle + 1;
-            else if (nums[middle] < nums[right]) right = middle;
+            else right = middle;
 
         }
         return nums[left];
