@@ -10,11 +10,9 @@ class Solution:
         prev_node = None
 
         while curr_node is not None:
-            if curr_node.next is None:
-                head = curr_node
             remaining_node = curr_node.next
             curr_node.next = prev_node
             prev_node = curr_node
             curr_node = remaining_node
 
-        return head
+        return prev_node
