@@ -9,7 +9,6 @@ public:
 
             if (nums[middle] > nums[right]) left = middle + 1;
             else if (nums[middle] < nums[right]) right = middle;
-            else return middle;
 
         }
         return nums[left];
