@@ -25,9 +25,11 @@ public:
 
         ListNode* point_none = left->next;
         left->next = left->next->next;
-        point_none->next = NULL;
+        delete point_none;
 
-        return dummy->next;
+        ListNode* new_head = dummy->next;
+        delete dummy;
+        return new_head;
         
     }
 };
