@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,11 +112,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
