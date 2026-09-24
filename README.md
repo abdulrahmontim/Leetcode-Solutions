@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
