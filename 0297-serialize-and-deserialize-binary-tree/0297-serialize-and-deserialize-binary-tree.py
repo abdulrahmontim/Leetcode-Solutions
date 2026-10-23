@@ -15,18 +15,17 @@ class Codec:
         """
         tree = list()
 
-        def dfs(root):
-            if root is None:
-                tree.append("N")
+        def dfs(node):
+            if node is None:
+                tree.append("E")
                 return
-            
-            tree.append(str(root.val))
-            dfs(root.left)
-            dfs(root.right)
+
+            tree.append(str(node.val))
+            dfs(node.left)
+            dfs(node.right)
         
         dfs(root)
-
-        return "#".join(tree)
+        return ",".join(tree)
         
 
     def deserialize(self, data):
@@ -35,23 +34,34 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        values = iter(data.split("#"))
-        
-        def dfs():
-            value = next(values)
+        tree = data.split(",")
+        curr_idx = 0
 
-            if value == "N":
+        def dfs():
+            nonlocal curr_idx
+            if len(tree) <= 0: return TreeNode(None)
+            curr_val = tree[curr_idx]
+            curr_idx += 1
+
+            if curr_val == "E":
                 return None
             
-            node = TreeNode(int(value))
+            node = TreeNode(int(curr_val))
             node.left = dfs()
             node.right = dfs()
-
+        
             return node
         
         return dfs()
 
+            
         
+
+
+
+
+
+
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
