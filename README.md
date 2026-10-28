@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,11 +100,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahmontim/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
